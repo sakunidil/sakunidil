@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 A passionate Software Developer
 -------------------------------
 
-I'm student who follows Data Science degree
+I'm currently following a Data Science degree
 
 * ✉️  You can contact me at [sakunidil20@gmail.com](mailto:sakunidil20@gmail.com)
 * 🧠  I'm learning Kotlin ,Python
